@@ -1,4 +1,4 @@
-# Product Management
+# Business Intelligence & Product Management Real life Project (Modified data)
 
 # Gerenciamento Eficiente do Projeto de Desenvolvimento de Aplicativo de Rede Social de Futebol
 
